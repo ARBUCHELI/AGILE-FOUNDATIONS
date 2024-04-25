@@ -17,3 +17,14 @@ Through this work we have come to value:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* The agile manifesto: Principles
+---------------------------------
+1. 8. 9. 10. Prioritize high-value work
+2. Welcoming change
+3. 7. Continuous delivery as a measure of progress
+4. Developers and customers work closely together
+5. 11. Small, motivated self-organized team of generalists
+6. Importance of face-to-face interaction
+12. Meet frequently to discuss process improvement
+
+
