@@ -1,0 +1,18 @@
+# 3. INDIVIDUALS AND INTERACTIONS
+---------------------------------
+
+* The cost of multitasking
+--------------------------
+
+* Agile Principle 3
+-------------------
+Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+
+Shorter timescales = Sprints
+
+* Scrum
+-------
+Avoid multitasking is a core idea of this framework.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
