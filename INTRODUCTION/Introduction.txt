@@ -1,0 +1,15 @@
+# INTRODUCTION
+--------------
+
+* Understanding Agile
+---------------------
+
+					       The Agile Manifesto
+					       -------------------
+
+			. Individuals and interaction	| . Processes and tools
+			. Working Software		| . Comprehension documentation
+			. Customer collaboration        | . Contract negotiation
+			. Responding to change		| . Following a plan
+
+
