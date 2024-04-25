@@ -19,6 +19,18 @@ Knowledge workers need flexibility to succeed.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Challenges with software manufacturing
+----------------------------------------
+
+* Traditional Planning
+----------------------
+1. Plan the project.
+2. Execute the project.
+3. Test the project.
+
+		* The cone of uncertainty
+		The uncertainty decreases with time, but it becomes more costly to make changes.
+
 
 
 
