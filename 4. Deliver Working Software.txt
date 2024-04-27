@@ -1,0 +1,29 @@
+# 4. DELIVER WORKING SOFTWARE
+-----------------------------
+
+* Start with the highest value
+------------------------------
+
+* Agile Principle 1
+-------------------
+Our highest PRIORITY is to satisfy the customer through early and continuous delivery of VALUABLE software.
+
+* Pareto Principle
+------------------
+20% 80% rule
+
+80% of the facts come from 20% of the causes.
+
+* Standish Group
+----------------
+A consulting group that found out that the majority of the software projects are failing, becuase the companies waste too much time working on software features that no one will use.
+
+Using the Pareto Principle means that there is a 20% of the software that is the most used.  ---> YOU NEED TO START TO DEVELOP HERE FIRST. --> THIS WILL BE THE FIRST PRIORITY FEAUTURE
+												  FOR THE FIRST SPRINT.
+
+For example is you are designing a web platform, one first question could be: WHICH FIELD OF WHICH FORM ARE THE MOST VALUABLE.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
