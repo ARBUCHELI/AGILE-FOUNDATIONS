@@ -97,6 +97,32 @@ The product owner worries about what the customer wants, and the development tea
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* User stories: Common challenges
+---------------------------------
+
+* Example of a bad user story 1:
+--------------------------------
+As a restaurant owner, I want to be able to print out, email, and text my reservation list so that we know how many people to expect.
+
+	This user story is not independant is really three stories in one, for that reason it would be very difficult to estimate and deliver.
+
+* Example of a bad user story 2:
+--------------------------------
+As a customer, I want an email copy of my receipt so that I can have it on my phone.
+
+	This story doesn't have a clear value statement.  I doesn't say why the customer might value a copy o their phone.
+
+* Example of a bad user story 3:
+--------------------------------
+As a developer, I want to design the databases tables so that the restaurant owner can add reservation information.
+
+	This user story probably came from a requirements document.  This is very usual when organizations are transitioning from waterfall.  It talks about techical requirements.
+
+	
+	* THE PRODUCT OWNER WOULD BE ABLE TO WRITE USER STORIES WITH A SINGLE VALUE STATEMENT
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
