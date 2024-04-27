@@ -30,3 +30,8 @@ Batches of work that go through the system.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* The Penny Game
+----------------
+The more productive way to work as an agile team is by moving around small batches of work and eliminating handoffs.  Even if your own productivity decreases.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
