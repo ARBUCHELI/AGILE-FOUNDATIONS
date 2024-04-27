@@ -73,6 +73,30 @@ Agile teams should be cross-functional.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* User stories
+--------------
+
+* Agile Principle 6 and Agile Value 2
+-------------------------------------
+Face-to-face communication and independence from documentation.
+
+* Format for a user story
+-------------------------
+	
+	As a [USER], I want [SOME FEATURE] so that I can [GET SOME VALUE].
+
+* What vs. How ---> This is a concept that comes from SCRUM
+--------------
+The product owner worries about what the customer wants, and the development team decides how to deliver it.
+
+* Remember that user stories are not an agile version of requirements.
+
+* Requirements tell the developer exactly what to do.
+
+* User stories allow to have a future conversation. It isn't designed to show the answers, but instead it helps the team to ask the right questions.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
