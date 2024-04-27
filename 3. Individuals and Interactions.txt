@@ -35,3 +35,65 @@ Batches of work that go through the system.
 The more productive way to work as an agile team is by moving around small batches of work and eliminating handoffs.  Even if your own productivity decreases.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Deliver at a predictable pace
+-------------------------------
+
+* Agile Principle 8
+-------------------
+Agile processes promote SUSTAINABLE DEVELOPMENT. The sponsors, developers, users should be able to maintain a CONSTANT PACE indefinitely.
+
+		Predictable = Sustainable-and-constant
+
+* Sprint
+--------
+A timeboxed iteration of work intended to deliver a shippable portion of a product in a shorter time scale.
+
+* Sprinkle
+----------
+Term from SCRUM that is being used here because SCRUM is the most popular Agile Framework.
+	  -----					-----
+
+	* AGILE TEAMS DELIVER IN SHORT TIME FRAMES
+
+	* PREDICTABLE DELIVERY OVER A WELL-PLANNED PROJECT
+
+	* PLANNING IS DIFFERENT THAN DELIVERING
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
