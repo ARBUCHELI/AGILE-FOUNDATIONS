@@ -18,3 +18,15 @@ Avoid multitasking is a core idea of this framework.
 
 * Avoid work handoffs
 ---------------------
+
+* Handoffs
+----------
+Finishing work on a task and then giving it to another person or department for processing.
+
+
+* Queue size
+------------
+Batches of work that go through the system.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
