@@ -62,6 +62,17 @@ Term from SCRUM that is being used here because SCRUM is the most popular Agile 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Cross-functional teams
+------------------------
+
+* Agile Principles 5 and 11
+---------------------------
+Small, motivated self-organized team of generalists.
+
+Agile teams should be cross-functional.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
