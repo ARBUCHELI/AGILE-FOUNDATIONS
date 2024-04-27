@@ -40,6 +40,47 @@ For example is you are designing a web platform, one first question could be: WH
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Avoid PowerPoint Software
+---------------------------
+			* WORKING SOFTWARE IS THE PRIMARY MEASSURE OF PROGRESS
+
+* How is possible to deliver working software every week?
+---------------------------------------------------------
+You have to deliver fully functional features of the product to the customer in iterations or sprints.
+
+* Example
+---------
+Developing a website.  We just want a webform that captures the customer's contact information and stores it in a database.  
+
+			* IF YOU THINK ABOUT IT, THAT'S A WHOLE PROJECT AND THERE ARE SEVERAL POSSIBLE MILESTONES.
+
+
+* WEBSITE AS A PROJECT
+----------------------
+
+. Create the database			. Develop Connecting Software			. Create the form			. Create Extra Verification Code
+
+
+			* FOR A PROJECT LIKE THIS IN AGILE YOU DON'T THINK IN WEBSITE AS A PROJECT.  YOU MUST THINK IN WEBSITE AS A PRODUCT THAT YOU WILL MUST TO DELIVER TO YOUR 
+			CUSTOMER THROUGHT SPRINTS.
+
+		
+			* REMEMBER. WHEN YOU ARE WORKING IN AN AGILE TEAM.  ONLY SHOW THE CUSTOMER, WORKING SOFTWARE.
+
+	
+			* SOME TEAMS MAKE THE MISTAKE OF SHOWING THE CUSTOMER POWERPOINT PRESENTATIONS OR WIRE FRAMES, BUT THESE ARE REALLY JUST FICTIONS.
+
+			
+			* THE TEAM SHOULD ALWAYS BE BUILDING WORKING SOFTWARE.
+
+
+			* WORKING SOFTWARE IS THE BEST WAY TO COMMUNICATE PROGRESS.  IT KEEPS THE CUSTOMER FROM ASKING QUESTIONS LIKE: WHEN CAN WE SHIP THIS? ... EVERY TIME THEY SEE
+			THE SOFTWARE IS POTENTIALLY SHIPPABLE.
+
+	
+			* REMEMBER THAT THE FEATURES THAT WE WILL USE THE MOST, WILL BE THE FIRST ONES THAT ARE FINISHED.
+
+
 
 
 
