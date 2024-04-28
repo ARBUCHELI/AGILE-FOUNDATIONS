@@ -1,0 +1,36 @@
+# 5. RESPOND TO CHANGE
+----------------------
+
+* Inspect and adapt
+-------------------
+Adapting to change is built into the very foundation of the Agile manifesto.
+
+The developers who wrote the manifesto were already using their own software development methods.  Two of the most popular were SCRUM and EXTREME PROGRAMMING.  That's why a lot of Agile
+teams use scrum terms.
+
+* Agile Principle 2
+-------------------
+Welcome changing requirements, even late in development.  Agile processes harness change for the customer's competitive advantage.
+
+* SCRUM
+-------
+Sees itself as an empirical product delivery framework.
+
+			* EARLY SOFTWARE DEVELOPMENT PROJECTS FOLLOWED THE SAME PROCESS THAT YOU HAD WITH MANUFACTURING, SO THESE TEAMS WOULD DEVELOP SOFTWARE THE SAME WAY YOU MIGHT
+			BUILD A BRIDGE OR MANUFACTURE A CAR.
+
+			* BUT AS TIME WENT ON, THESE TEAMS RECOGNIZED THAT SOFTWARE DEVELOPMENT IS MUCH DIFFERENT FROM MANUFACTURING.  
+
+			* SOFTWARE IS MUCH CHAOTIC.  THE PRODUCT MAY DEPEND ON DIFFERENT FACTORS THAY MAY ALWAYS BEEING CHANGED AND UPDATED:
+
+				. Operating Systems.
+				. Different networking protocols.
+		
+			* IT'S REALLY DIFFICULT TO PLAN OUT A WEB APPLICATION YEARS OR EVEN MONTHS IN ADVANCE.
+
+			* EMBRACING CHANGE ALLOW THE CUSTOMER TO BE MORE SATISFIED WITH THE FINAL PRODUCT.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
