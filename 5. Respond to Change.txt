@@ -67,6 +67,69 @@ Agile processes promote sustainable development.  The sponsors, developers, and 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Jump off the waterfall
+------------------------
+
+* WATERFALL (OR STAGE-GATE RELEASE)
+-----------------------------------
+. Step-by-step approach that was used in engineering.
+
+. In the 1970's, a computer scientists named Winston Royce, took the waterfall model and reworked it to make it work with software.
+
+			* WATERFALL MODEL REFACTORING FOR MAKING IT WORK WITH SOFTWARE
+			--------------------------------------------------------------
+		
+			PLAN ---> ANALYZE ---> DESIGN ---> CODE ---> TEST ---> DEPLOY
+
+			
+
+			AGILE			WATERFALL
+			-----			---------
+			. A mindset.		. A strict process.
+
+
+* Agile Principle 4, 5, and 11
+------------------------------
+Agile teams should be MOTIVATED and SELF-ORGANIZED. They should also work closely with business people when delivering the product.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
