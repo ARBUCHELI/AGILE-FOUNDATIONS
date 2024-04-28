@@ -94,6 +94,115 @@ Ranked list of different features that the product owner would like included in 
 
 . "Shield".
 
+. Conflict negotiator.
+
+			* THE SCRUM MASTER ROLE CHANGES OVER TIME.
+
+			* THEY MIGHT START OUT SPENDING MOST OF THEIR TIME TRAINING.
+
+				. For example, showing the product owner how to write better user stories.
+
+				. Then over time the Agile Team will get better at following SCRUM.
+
+			* THE AUTHORITY AND POWER THAT A SCRUM MASTER HAS COMES FROM THEIR KNOWLEDGE OF SCRUM.
+
+
+			* IF YOU PULL OFF SOMEONE OFF AN AGILE TEAM, THEN YOU ARE GOING TO CREATE BACKUPS.
+
+			* REMEMBER THAT THE TEAM ALWAYS GOES AS FAST AS THE SLOWEST PERSON.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Combat groupthink
+-------------------
+
+* Agile Value 1
+---------------
+Individuals and interactions over processes and tools.
+
+Communication.
+
+			* MOST SOFTWARE PROBLEMS FAIL, NOT BECAUSE SOME OVERWHELMING TECHNICAL CHALLENGE.  INSTEAD THESE PROJECTS FAIL BECAUSE OF BAD COMMUNICATION.
+
+			Communication ------- Cross-Functional Teams
+
+* Groupthink
+------------
+When a group decides to agree with the opinion of the few experts in the group.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Planning Poker
+----------------
+Planning Poker is a consensus building technique that was adapted from a group decision-making tool called Wideband Delphi.
+
+The Scrum Master asks the person with the highest estimation number, to explain the person with the lowest estimation number, why a story will need much more effort.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
