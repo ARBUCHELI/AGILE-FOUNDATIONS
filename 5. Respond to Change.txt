@@ -137,6 +137,15 @@ Plan - Analyze - Design - Code - Test - Deploy - Plan - Analyze - Design - Code 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Iterative delivery
+--------------------
+Most Agile teams focus on delivering the product incrementally and iteratively.
+
+* Waterfall Approach Example
+----------------------------
+
+Car frame ---> Wheels and windshield ---> Seats and paint ---> Delivery
+
 
 
 
