@@ -1,3 +1,85 @@
 # 6. POPULAR AGILE FRAMEWORKS
 -----------------------------
 
+* Scrum overview
+----------------
+			Agile				Scrum
+			-----				-----
+			. A mindset			. A way to embrace the Agile mindset
+
+
+* Scrum
+-------
+Empirical process control framework.
+
+	. 3 Roles
+	---------
+	- Product Owner.
+	- Scrum Master.
+	- Development Team.
+
+	
+	. 5 Events
+	----------
+	- Sprint Planning.
+	- Daily Scrum (Daily Standup)
+	- Sprint Review.
+	- Sprint Retrospective.
+	- Sprint (or Iteration).
+
+	
+	. A few artifacts
+	-----------------
+	- Product Backlog.
+	- Sprint Backlog.
+	- Increment.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Extreme programming
+---------------------
+
+XP is only focused on Software Development.
+
+
+* Extreme programming
+---------------------
+. Agile planning
+. Continuous integration
+. Software re-factoring
+. Test driven development (TDD)
+
+
+* User stories
+--------------
+. I want the user to be able to input their address.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
