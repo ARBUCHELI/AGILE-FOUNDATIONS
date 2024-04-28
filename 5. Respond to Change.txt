@@ -32,5 +32,86 @@ Sees itself as an empirical product delivery framework.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Stay within timeboxes
+-----------------------
+
+* Agile Principle 3
+-------------------
+DELIVER WORKING SOFTWARE FREQUENTLY, from a couple of weeks to a couple of months, with a preference to the SHORTER TIMESCALE.
+
+* Agile Principle 8
+-------------------
+Agile processes promote sustainable development.  The sponsors, developers, and users should be able to MAINTAIN A CONSTANT PACE INDEFINITELY.
+
+* Agile Teams
+-------------
+. Embrace change
+
+. Experiment
+
+			* THE BEST WAY TO DO THIS IS BY WORKING WITH SMALL BATCHES OF WORK AND DELIVERING IT FREQUENTLY. 
+
+			* AGILE TEAMS SHOULD BE VERY AWARE OF TIME.
+
+			* YOU CAN'T HAVE MEETINGS THAT GO OVER SCHEDULE, OR BRAINSTORMING SESSIONS WITH AN UNCERTAIN OUTCOME, BECAUSE YOUR TEAM HAS A DEADLINE EVERY FEW WEEKS.
+
+* Timebox Usage
+---------------
+. Each person has their own
+
+. No more than eight hours work
+
+. Overtime work disrupts team's predictability
+
+. Overtime is not sutainable
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
