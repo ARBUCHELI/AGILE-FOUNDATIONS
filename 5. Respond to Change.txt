@@ -94,6 +94,78 @@ Agile teams should be MOTIVATED and SELF-ORGANIZED. They should also work closel
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Commit to sprints
+-------------------
+
+* Waterfall
+-----------
+Plan - Analyze - Design - Code - Test - Deploy
+
+* Sprints
+---------
+Plan - Analyze - Design - Code - Test - Deploy - Plan - Analyze - Design - Code - Test - Deploy
+
+Plan - Analyze - Design - Code - Test - Deploy - Plan - Analyze - Design - Code - Test - Deploy
+
+
+* Sprint Planning Meeting
+-------------------------
+. First day of sprint
+. Planning all sprint work
+. Less than 2 hours
+
+
+* Sprint Review
+---------------
+. Customer feedback
+. Less than two hours
+
+
+* Sprint Elements
+-----------------
+1. Sprint planning
+2. Analysis in daily scrums
+3. Deployment and sprint review
+4. Process improvement
+
+			* KEEP IN MIND THAT EVEN THOUGH YOU'RE DOING A LOT OF THE SAME WORK AS A WATERFALL PROJECT, YOU'RE NOT DELIVERING THE WORK IN PHASES.  YOU MIGHT PLAN AT THE 
+			BEGINNING, AND DELIVER AT THE END, BUT MOST OF THE WORK IN BETWEEN IS MIXED TOGETHER.
+
+
+			* THE TEAM SHOULD BE ANALYZING, DEVELOPING, AND TESTING, ALL AT THE SAME TIME.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
