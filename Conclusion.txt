@@ -1,0 +1,19 @@
+# CONCLUSION
+------------
+
+* Continuing with agile
+-----------------------
+The real value in agile comes from tough changes.
+
+. Scrum: The Basics (Kelley O'Connell)
+
+. Agile Product Owner Role: Foundations (Angela Wick)
+
+. Doug Rose
+-----------
+. Agile at Work: Building Your Agile Team
+. Agile at work: Driving Productive Agile Meetings
+. Agile at work: Planning with Agile User Stories
+. Agile at work: Getting Better with Agile Retrospectives
+. Agile at work: Reporting with Agile Charts and Boards
+
