@@ -1,0 +1,17 @@
+# 8. START AN AGILE TRANSFORMATION
+----------------------------------
+
+* Major agile challenges
+------------------------
+When embracing Agile transformation, the biggest challenge in large organizations is underestimating how radical the transformation can be.
+
+* Agile Challenges
+------------------
+. Comfort with uncertainty
+
+. Eliminating handoffs
+
+. Working software as status updates
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
