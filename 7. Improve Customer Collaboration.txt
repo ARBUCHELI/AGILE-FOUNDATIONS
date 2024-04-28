@@ -1,0 +1,113 @@
+# 7. Improve Customer Collaboration
+-----------------------------------
+
+* Common roles on the team
+--------------------------
+
+* Dangers of Equating Agile and Traditional Roles
+-------------------------------------------------
+1. Place people in poorly fitting roles.
+
+2. Perpetuate stereotype of slow organizational change.
+
+Agile is RADICALLY DIFFERENT from how most organizations operate.
+
+			* BE VERY CAREFUL PUTTING PROJECT MANAGERS INTO THE SCRUM MASTER ROLE.
+				. A Project Manager is used to being the point person to the project.  People will come to them for status updates, and they're responsible for hiring and
+				firing people on their team.
+
+* Scrum Master Role
+-------------------
+. Coaches
+
+. Encourages
+
+. Facilitates self-management
+
+			* ANOTHER SOURCE OF CONFUSION IS THE ROLE OF PRODUCT OWNER.  THE PRODUCT OWNER IS NOT AN AGILE BUSSINESS ANALYST.  
+				. A business analyst will typically create project requirements for the team, then it's up to the team to deliver those requirements.
+
+* Product Owner
+---------------
+. Works WITH the team
+
+. Has shared responsibility
+
+
+			* YOU'LL CERTAINLY WANT TO LOOK FOR PEOPLE ALREADY IN YOUR ORGANIZATION WHEN YOU START YOUR AGILE TEAM.  JUST MAKE SURE THAT EVERYONE KNOWS THEIR ROLE AND ISN'T
+			JUST TRYING TO DO THE SAME THING WITH A NEW AGILE JOB TITLE.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* The product owner
+-------------------
+Many agile coaches believe that the product owner is the most important role on the team.  
+
+* Product Owner
+---------------
+. Owns the product
+
+. Responsible for direction and prioritization
+
+			* PRODUCT OWNER AND DEVELOPERS SHOULD HAVE AUTHORITY TO MAKE REAL-TIME DECISIONS.
+
+			* A PRODUCT MANAGER IS CLOSER TO A PRODUCT OWNER THAN A BUSINESS ANALYST.
+
+* Product Manager
+-----------------
+. Works on long-term strategy
+
+. Creates the budget 
+
+. Looks at competing products
+
+. Brings in product owner
+
+			PRODUCT OWNER ---> PRODUCT BACKLOG
+
+
+* Product backlog
+-----------------
+Ranked list of different features that the product owner would like included in the product.
+
+			* A LOT OF TEAMS STRUGGLE WHEN THEY HAVE A PRODUCT OWNER WHO'S NOT REALLY COMMITTED TO THE TEAM.	
+
+			* WHEN YOU DON'T HAVE A PRODUCT OWNER THEN THE TEAM LOSES ANY SENSE OF DIRECTION.  THE DEVELOPERS WILL JUST DELIVER THE PARTS OF THE PRODUCT THAT THEY CAN FINISH
+			FIRST.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

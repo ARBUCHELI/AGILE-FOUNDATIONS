@@ -56,6 +56,25 @@ XP is only focused on Software Development.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Kanban overview
+-----------------
+Kanban is a scheduling system that was used in Lean manufacturing.
+
+			 Lean thinking = what's valuable to the customer
+
+* Agile Principle 1
+-------------------
+Our highest priority is to satisfy the customer through early and CONTINUOUS DELIVERY OF VALUABLE SOFTWARE.
+
+* Agile Principle 5
+-------------------
+Build projects around MOTIVATED INDIVIDUALS. Give them the environment and support they need, and TRUST THEM to get the job done.
+
+			* LEAN THINKING
+			---------------
+			. Respect for people.
+			. Continuosly Improve.
+
 
 
 
